@@ -1,2 +1,3 @@
 # Baldwin-Wallace-ACM-Projects
-These are projects from Badlwin Wallace's ACM Projects in 2022
+These are completed problems from Baldwin Wallace's ACM Projects in 2022
+https://contest.acm.bw.edu/
